@@ -3,6 +3,12 @@ OpenFraction es un contrato de fraccionalización de NFTs desarrollado para una
 Hackathon de Blockchain. Está desarrollado en Solidity para ser utilizado
 en cadenas estilo Ethereum.
 
+# Documentación de Hackathon
+
+- [Integración de desarrolladores](https://github.com/kouta-kun/openfraction/blob/master/Instalaci%C3%B3n%20del%20Entorno.odt)
+- [Ejemplo del caso de uso principal](https://github.com/kouta-kun/openfraction/blob/master/Caso%20de%20Uso%20principal.odt)
+- [Visión, objetivo y roadmap a futuro](https://github.com/kouta-kun/openfraction/blob/master/Roadmap.odt)
+
 # API
 OpenFraction se implementa como un token ERC20, y puede recibir mediante
 safeTransfer tokens ERC721 de otros contratos. De los tokens ERC721 que posee,
