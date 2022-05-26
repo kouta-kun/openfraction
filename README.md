@@ -39,9 +39,9 @@ const fractionApi = [
 
 Para el desarrollo del contrato, es necesario tener instalados Brownie (Framework de desarrollo para Solidity en Python), Solidity y Ganache (nodo local de desarrollo):
 
-1. [https://eth-brownie.readthedocs.io/en/stable/install.html](Instalación de Brownie)
-2. Solidity generalmente se instala mediante Brownie, caso contrario se puede [https://docs.soliditylang.org/en/v0.8.14/installing-solidity.html](instalar manualmente de múltiples maneras \(NPM, Nativo, Etc\))
-3. [https://github.com/trufflesuite/ganache#command-line-use](Ganache)
+1. [Instalación de Brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
+2. Solidity generalmente se instala mediante Brownie, caso contrario se puede [instalar manualmente de múltiples maneras (NPM, Nativo, Etc)](https://docs.soliditylang.org/en/v0.8.14/installing-solidity.html)
+3. [Ganache](https://github.com/trufflesuite/ganache#command-line-use)
 
 
 Una vez instalados, podemos proceder. En el archivo contracts/OpenFraction.sol se encuentra el contrato + estructuras de ayuda relacionadas. 
